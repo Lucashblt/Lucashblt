@@ -2,7 +2,7 @@
 
 ## 📚 Main languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashblt&layout=compact&count_private=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashblt&layout=compact&count_private=true&theme=transparent
 
 
 <!--
